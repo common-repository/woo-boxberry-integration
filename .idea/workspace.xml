@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26ffe8e3-16a7-4332-9fa8-1768632d3b54" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Boxberry/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="boxberry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1564">
+              <caret line="92" column="8" lean-forward="false" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boxberry-for-woocommerce.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerce.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8755">
+              <caret line="515" column="58" lean-forward="false" selection-start-line="515" selection-start-column="58" selection-end-line="515" selection-end-column="58" />
+              <folding>
+                <marker date="1517403995529" expanded="true" signature="18637:18720" ph="SELECT * FRO... $" />
+                <marker date="1517403995529" expanded="true" signature="20029:20051" ph="..." />
+                <marker date="1517403995529" expanded="true" signature="20112:20129" ph="..." />
+                <marker date="1517403995529" expanded="true" signature="22349:22432" ph="SELECT * FRO... $" />
+                <marker date="1517403995529" expanded="true" signature="30332:31079" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boxberry-for-woocommerceisp.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerceisp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8823">
+              <caret line="519" column="8" lean-forward="false" selection-start-line="519" selection-start-column="8" selection-end-line="522" selection-end-column="58" />
+              <folding>
+                <marker date="1517403693059" expanded="true" signature="18808:18891" ph="SELECT * FRO... $" />
+                <marker date="1517403693059" expanded="true" signature="20200:20222" ph="..." />
+                <marker date="1517403693059" expanded="true" signature="20283:20300" ph="..." />
+                <marker date="1517403693059" expanded="true" signature="22520:22603" ph="SELECT * FRO... $" />
+                <marker date="1517403693059" expanded="true" signature="30491:31238" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Boxberry/src/Client/Client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4862">
+              <caret line="302" column="20" lean-forward="false" selection-start-line="302" selection-start-column="20" selection-end-line="302" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListCitiesRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Boxberry/src/Requests/ListCitiesRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="27" column="65" lean-forward="false" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListCitiesCollection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Boxberry/src/Collections/ListCitiesCollection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTTP.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Internet-magazin/HTTP.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boxberry.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="70" column="76" lean-forward="false" selection-start-line="70" selection-start-column="76" selection-end-line="70" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Internet-magazin/Client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4879">
+              <caret line="303" column="27" lean-forward="false" selection-start-line="303" selection-start-column="20" selection-end-line="303" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>price</find>
+      <find>Выберите</find>
+      <find>is_checkout</find>
+      <find>var_dump</find>
+      <find>$deliveryDays</find>
+      <find>add_ra</find>
+      <find>woocommerce_after_shipping_rate</find>
+      <find>$payment</find>
+      <find>init</find>
+      <find>-</find>
+      <find>--</find>
+      <find>costRe</find>
+      <find>console.log</find>
+      <find>cart_subtotal</find>
+      <find>echo</find>
+      <find>&lt;br/</find>
+      <find>add_rate</find>
+      <find>&lt;br</find>
+      <find>$this-&gt;self_type</find>
+      <find>parselC</find>
+      <find>quantity</find>
+      <find>$cart_products</find>
+      <find>parselCre</find>
+      <find>dimension</find>
+      <find>list</find>
+      <find>List</find>
+      <find>execute</find>
+      <find>first</find>
+      <find>calculate</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/CMS/Wordpress/wp_boxberry/js/boxberry.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/js/boxberry.js" />
+        <option value="$PROJECT_DIR$/boxberry-for-woocommerce.php" />
+        <option value="$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerceisp.php" />
+        <option value="$PROJECT_DIR$/../../Internet-magazin/Client.php" />
+        <option value="$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerce.php" />
+        <option value="$PROJECT_DIR$/../../Internet-magazin/HTTP.php" />
+        <option value="$PROJECT_DIR$/../../Internet-magazin/boxberry.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wp_boxberry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wp_boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wp_boxberry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wp_boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wp_boxberry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wp_boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wp_boxberry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wp_boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Client" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wp_boxberry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wp_boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wp_boxberry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wp_boxberry" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../skype/2.2.1/2.2.1" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ffe8e3-16a7-4332-9fa8-1768632d3b54" name="Default" comment="" />
+      <created>1516103863564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516103863564</updated>
+      <workItem from="1516103865208" duration="1806000" />
+      <workItem from="1516332988581" duration="4328000" />
+      <workItem from="1516764668395" duration="725000" />
+      <workItem from="1517225582316" duration="2617000" />
+      <workItem from="1517283839992" duration="316000" />
+      <workItem from="1517294738272" duration="16986000" />
+      <workItem from="1517373158656" duration="9614000" />
+      <workItem from="1517398283080" duration="5376000" />
+      <workItem from="1517468133157" duration="19000" />
+    </task>
+    <task id="LOCAL-00001" summary="check price on &quot;undefined&quot;">
+      <created>1516340753693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516340753693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="addd error reporting">
+      <created>1516764813016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516764813016</updated>
+    </task>
+    <task id="LOCAL-00003" summary="empty cache">
+      <created>1517225934679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517225934679</updated>
+    </task>
+    <task id="LOCAL-00004" summary="empty cache">
+      <created>1517228775004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517228775004</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update js + boxberry-for-woocommerce">
+      <created>1517375369568</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517375369568</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update boxberry-for-woocommerce">
+      <created>1517377375617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517377375617</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update boxberry-for-woocommerce">
+      <created>1517378004163</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517378004163</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update boxberry-for-woocommerce">
+      <created>1517378085094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1517378085094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update boxberry-for-woocommerce">
+      <created>1517378173460</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1517378173460</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update js + bxb for woocommerce">
+      <created>1517382135400</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1517382135400</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update js + bxb for woocommerce">
+      <created>1517385892160</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1517385892160</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update js + bxb for woocommerce">
+      <created>1517398600922</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1517398600922</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41787000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check price on &quot;undefined&quot;" />
+    <MESSAGE value="addd error reporting" />
+    <MESSAGE value="empty cache" />
+    <MESSAGE value="update js + boxberry-for-woocommerce" />
+    <MESSAGE value="update boxberry-for-woocommerce" />
+    <MESSAGE value="update js + bxb for woocommerce" />
+    <option name="LAST_COMMIT_MESSAGE" value="update js + bxb for woocommerce" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="8" lean-forward="false" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8755">
+          <caret line="515" column="58" lean-forward="false" selection-start-line="515" selection-start-column="58" selection-end-line="515" selection-end-column="58" />
+          <folding>
+            <marker date="1517403995529" expanded="true" signature="18637:18720" ph="SELECT * FRO... $" />
+            <marker date="1517403995529" expanded="true" signature="20029:20051" ph="..." />
+            <marker date="1517403995529" expanded="true" signature="20112:20129" ph="..." />
+            <marker date="1517403995529" expanded="true" signature="22349:22432" ph="SELECT * FRO... $" />
+            <marker date="1517403995529" expanded="true" signature="30332:31079" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerceisp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8823">
+          <caret line="519" column="8" lean-forward="false" selection-start-line="519" selection-start-column="8" selection-end-line="522" selection-end-column="58" />
+          <folding>
+            <marker date="1517403693059" expanded="true" signature="18808:18891" ph="SELECT * FRO... $" />
+            <marker date="1517403693059" expanded="true" signature="20200:20222" ph="..." />
+            <marker date="1517403693059" expanded="true" signature="20283:20300" ph="..." />
+            <marker date="1517403693059" expanded="true" signature="22520:22603" ph="SELECT * FRO... $" />
+            <marker date="1517403693059" expanded="true" signature="30491:31238" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxberry/src/Client/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5134">
+          <caret line="302" column="20" lean-forward="false" selection-start-line="302" selection-start-column="20" selection-end-line="302" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxberry/src/Requests/ListCitiesRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="27" column="65" lean-forward="true" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxberry/src/Collections/ListCitiesCollection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/HTTP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4879">
+          <caret line="303" column="27" lean-forward="false" selection-start-line="303" selection-start-column="20" selection-end-line="303" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="76" lean-forward="true" selection-start-line="70" selection-start-column="76" selection-end-line="70" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="8" lean-forward="false" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8415">
+          <caret line="495" column="0" lean-forward="false" selection-start-line="495" selection-start-column="0" selection-end-line="495" selection-end-column="0" />
+          <folding>
+            <marker date="1517398590104" expanded="true" signature="18647:18730" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="20039:20061" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="20122:20139" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="22359:22442" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="30513:31137" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="30953:31137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="108" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7820">
+          <caret line="460" column="45" lean-forward="false" selection-start-line="460" selection-start-column="45" selection-end-line="460" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="75" lean-forward="false" selection-start-line="66" selection-start-column="75" selection-end-line="66" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11798">
+          <caret line="694" column="43" lean-forward="false" selection-start-line="694" selection-start-column="43" selection-end-line="694" selection-end-column="43" />
+          <folding>
+            <marker date="1517398590104" expanded="true" signature="18647:18730" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="20039:20061" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="20122:20139" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="22359:22442" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="30513:31137" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="30953:31137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11713">
+          <caret line="689" column="23" lean-forward="false" selection-start-line="689" selection-start-column="23" selection-end-line="689" selection-end-column="23" />
+          <folding>
+            <marker date="1517403995529" expanded="true" signature="18637:18720" ph="SELECT * FRO... $" />
+            <marker date="1517403995529" expanded="true" signature="20029:20051" ph="..." />
+            <marker date="1517403995529" expanded="true" signature="20112:20129" ph="..." />
+            <marker date="1517403995529" expanded="true" signature="22349:22432" ph="SELECT * FRO... $" />
+            <marker date="1517403995529" expanded="true" signature="30332:31079" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="73" lean-forward="false" selection-start-line="44" selection-start-column="73" selection-end-line="44" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="196" column="37" lean-forward="false" selection-start-line="196" selection-start-column="37" selection-end-line="196" selection-end-column="37" />
+          <folding>
+            <marker date="1517398590104" expanded="true" signature="18647:18730" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="20039:20061" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="20122:20139" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="22359:22442" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="30513:31137" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="30953:31137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="73" lean-forward="false" selection-start-line="44" selection-start-column="73" selection-end-line="44" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3111">
+          <caret line="183" column="65" lean-forward="true" selection-start-line="183" selection-start-column="65" selection-end-line="183" selection-end-column="65" />
+          <folding>
+            <marker date="1517398590104" expanded="true" signature="18647:18730" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="20039:20061" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="20122:20139" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="22359:22442" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="30513:31137" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="30953:31137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="73" lean-forward="true" selection-start-line="44" selection-start-column="73" selection-end-line="44" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <marker date="1517398590104" expanded="true" signature="18647:18730" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="20039:20061" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="20122:20139" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="22359:22442" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="30513:31137" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="30953:31137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxberry/src/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/boxberry.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/boxberry.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxberry/src/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/CMS/Wordpress/wp_boxberry/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="460" column="45" lean-forward="false" selection-start-line="460" selection-start-column="45" selection-end-line="460" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="8" lean-forward="false" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="157" column="53" lean-forward="true" selection-start-line="157" selection-start-column="53" selection-end-line="157" selection-end-column="53" />
+          <folding>
+            <marker date="1517398590104" expanded="true" signature="18647:18730" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="20039:20061" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="20122:20139" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="22359:22442" ph="SELECT * FRO... $" />
+            <marker date="1517398590104" expanded="true" signature="30513:31137" ph="..." />
+            <marker date="1517398590104" expanded="true" signature="30953:31137" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxberry/src/Requests/ListCitiesRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="27" column="65" lean-forward="false" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxberry/src/Collections/ListCitiesCollection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxberry/src/Client/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4862">
+          <caret line="302" column="20" lean-forward="false" selection-start-line="302" selection-start-column="20" selection-end-line="302" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4879">
+          <caret line="303" column="27" lean-forward="false" selection-start-line="303" selection-start-column="20" selection-end-line="303" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerceisp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8823">
+          <caret line="519" column="8" lean-forward="false" selection-start-line="519" selection-start-column="8" selection-end-line="522" selection-end-column="58" />
+          <folding>
+            <marker date="1517403693059" expanded="true" signature="18808:18891" ph="SELECT * FRO... $" />
+            <marker date="1517403693059" expanded="true" signature="20200:20222" ph="..." />
+            <marker date="1517403693059" expanded="true" signature="20283:20300" ph="..." />
+            <marker date="1517403693059" expanded="true" signature="22520:22603" ph="SELECT * FRO... $" />
+            <marker date="1517403693059" expanded="true" signature="30491:31238" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry-for-woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8755">
+          <caret line="515" column="58" lean-forward="false" selection-start-line="515" selection-start-column="58" selection-end-line="515" selection-end-column="58" />
+          <folding>
+            <marker date="1517403995529" expanded="true" signature="18637:18720" ph="SELECT * FRO... $" />
+            <marker date="1517403995529" expanded="true" signature="20029:20051" ph="..." />
+            <marker date="1517403995529" expanded="true" signature="20112:20129" ph="..." />
+            <marker date="1517403995529" expanded="true" signature="22349:22432" ph="SELECT * FRO... $" />
+            <marker date="1517403995529" expanded="true" signature="30332:31079" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/HTTP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internet-magazin/boxberry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="70" column="76" lean-forward="false" selection-start-line="70" selection-start-column="76" selection-end-line="70" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
